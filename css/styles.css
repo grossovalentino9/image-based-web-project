@@ -24,3 +24,11 @@ h1{
 p{
     color: rgb(142, 140, 139);
 }
+
+.contenedor{
+    display: grid;
+    grid-template-columns: repeat(3,1fr);
+    grid-template-rows: repeat(3,115px);
+    grid-gap: 20px;
+    
+}
