@@ -38,8 +38,10 @@ p{
 }
 
 i{
-    color: rgb(12, 134, 158);
+    border-radius: 60%;
     font-size: 30px;
+    background-color: rgb(12, 134, 158);
+    color: white;
 }
 
 h2{
